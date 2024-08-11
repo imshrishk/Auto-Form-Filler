@@ -1,26 +1,25 @@
-```markdown
 # 📄 Auto-Form-Filler
 
-**Auto-Form-Filler** is a Python-based automation tool designed to read URLs from a CSV file and automatically submit forms on those web pages using Selenium WebDriver. This tool is particularly useful for testing purposes or performing bulk form submissions across multiple websites.
+**Auto-Form-Filler** is a Python tool designed to automate the submission of forms on multiple web pages by reading URLs from a CSV file and using Selenium WebDriver. It's perfect for testing or performing bulk form submissions across various websites.
 
 ## 🌟 Features
 
-- **CSV File Input:** Effortlessly select a CSV file containing the URLs of the web pages with forms.
-- **Automated Form Submission:** Automatically fill out and submit forms on the specified web pages.
-- **Customizable Form Fields:** Easily customize the form fields such as name, email, and message.
-- **Error Handling:** Logs any errors encountered during form submission, along with the URL where the error occurred.
+- **CSV File Input:** Easily select a CSV file that contains URLs of web pages with forms.
+- **Automated Form Submission:** The tool automatically fills out and submits forms on the specified web pages.
+- **Customizable Form Fields:** You can personalize the form fields, such as name, email, and message.
+- **Robust Error Handling:** Any errors encountered during form submission are logged, along with the URL where the error occurred.
 
 ## 🛠️ Prerequisites
 
-Before running the script, ensure you have the following:
+Before running the script, make sure you have the following:
 
 - **Python 3.x**
-- `pandas` library
-- `tkinter` library (included with most Python installations)
-- `selenium` library
-- **Chrome WebDriver** (Ensure the executable is in your PATH)
+- The `pandas` library
+- The `tkinter` library (typically included with Python)
+- The `selenium` library
+- **Chrome WebDriver** (Ensure the executable is in your system PATH)
 
-To install the necessary Python libraries, run:
+To install the necessary Python libraries, run the following command in your terminal:
 
 ```bash
 pip install pandas selenium
@@ -79,4 +78,3 @@ For any inquiries or issues, you can reach out via:
 
 - **Email:** [shrishk.work@gmail.com](mailto:shrishk.work@gmail.com)
 - **GitHub:** [quarkum-0](https://github.com/quarkum-0)
-```
