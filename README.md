@@ -30,7 +30,7 @@ pip install pandas selenium
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/quarkum-0/Auto-Form-Filler.git
+   git clone https://github.com/imshrishk/Auto-Form-Filler.git
    cd Auto-Form-Filler
    ```
 
@@ -77,4 +77,4 @@ Contributions are welcome! If you have suggestions for improving this tool, feel
 For any inquiries or issues, you can reach out via:
 
 - **Email:** [shrishk.work@gmail.com](mailto:shrishk.work@gmail.com)
-- **GitHub:** [quarkum-0](https://github.com/quarkum-0)
+- **GitHub:** [imshrishk](https://github.com/imshrishk)
